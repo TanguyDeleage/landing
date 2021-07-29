@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #393E41;
+  color: white;
+}
+
+.flags img{
+  margin: 5px;
+}
+
+.fab {
+  color: white;
+  font-size: 30px;
+}
+
+.footer p {
+  margin: 3px auto;
+}
